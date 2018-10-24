@@ -27,3 +27,9 @@ ___
 10. If above url is too difficult to enter, follow this guide (https://jonathannicol.com/blog/2012/03/11/configuring-virtualhosts-in-xampp-on-mac/) to configure virtual host for customizing the custom url for the project.
 
 In case you can’t get it run or can’t see the app, I’ve hosted the full working example at http://show.sundayparty.net/dispense, feel free to play around.
+___
+### How to run test
+Simply use the Terminal and enter the folder and run this command
+```
+./vendor/bin/phpunit
+```
